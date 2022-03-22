@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Lê Thị Thùy',
     introDesc: `Phiếu khảo sát tăng lương công nhân viên công ty`,
     btnIntro: '^^Đồng ý^^',
-    title: 'Chung quy cũng tại chữ “TIỀN “ 🥰',
+    title: 'Chung quy cũng tại chữ TIỀN  🥰',
     desc: 'Làm cho nhân thế, đảo điên quay cuồng ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
