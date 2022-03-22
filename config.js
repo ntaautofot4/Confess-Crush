@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Send",
+    titleWeb: "Senda",
     introTitle: 'Lê Thị Thùy',
     introDesc: `Phiếu khảo sát tăng lương công nhân viên công ty`,
     btnIntro: '^^Đồng ý^^',
