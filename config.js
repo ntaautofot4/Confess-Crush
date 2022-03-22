@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "Demo",
-    introTitle: 'Nguyen Van A',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    introTitle: 'Lê Thị Thùy',
+    introDesc: `Phiếu khảo sát tăng lương công nhân viên công ty`,
+    btnIntro: '^^Đồng ý^^',
+    title: 'Chung quy cũng tại chữ “TIỀN “ 🥰',
+    desc: 'Làm cho nhân thế, đảo điên quay cuồng ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Công ty chúng tôi mong muốn bạn đồng ý lời đề nghị tăng lương cho bạn! <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Tôi thấy thõa mãn với đồng lương mình đang nhận được',
+    mess: 'Công ty biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: '17/4 chúng mình nhậu nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
